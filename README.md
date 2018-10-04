@@ -80,4 +80,6 @@ Finally:
 
 * Click on "Save changes"
 
+## Donating to the [Monero Integrations](https://github.com/monero-integrations) Devs :)
 
+XMR Address : `44krVcL6TPkANjpFwS2GWvg1kJhTrN7y9heVeQiDJ3rP8iGbCd5GeA4f3c2NKYHC1R4mCgnW7dsUUUae2m9GiNBGT4T8s2X`
